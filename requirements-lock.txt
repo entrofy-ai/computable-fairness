@@ -1,0 +1,6 @@
+# Exact package versions used to verify this code (full reproduction run).
+# For a looser install, use requirements.txt instead.
+numpy==2.4.4
+matplotlib==3.10.8
+scipy==1.17.1
+scikit-learn==1.8.0
