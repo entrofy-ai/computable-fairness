@@ -167,8 +167,11 @@ If you use this code, please cite the paper:
 
 ## License
 
-No license has been assigned yet. The authors retain all rights for now;
-a license (expected to be a permissive one such as MIT) will be added after
-review. Until then, the code is provided for reading and for reproducing the
-results of the paper. If you would like to use it for any other purpose,
-please contact the authors.
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+## Patent Notice
+
+A related patent application has been filed.
+
+Patent rights, if granted, remain with the patent holders.
